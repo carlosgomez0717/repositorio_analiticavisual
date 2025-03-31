@@ -1,5 +1,5 @@
-print("hola mundo")
+print("Claudiaburi7")
 
-print("hola mundo otra vez")
+print("Claudia Sofia")
 
-print("bien y como vas")
+print("Hello, welcome to my world")
